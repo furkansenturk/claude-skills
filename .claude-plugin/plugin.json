@@ -1,0 +1,10 @@
+{
+  "name": "furkan-skills",
+  "version": "1.0.0",
+  "description": "Personal Claude skill collection",
+  "author": {
+    "name": "Furkan Şentürk"
+  },
+  "repository": "https://github.com/furkansenturk/claude-skills",
+  "license": "MIT"
+}

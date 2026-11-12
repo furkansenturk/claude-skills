@@ -1,0 +1,15 @@
+{
+  "name": "claude-skills",
+  "owner": {
+    "name": "Furkan Şentürk",
+    "url": "https://furkansenturk.com"
+  },
+  "description": "Furkan Şentürk's personal Claude skill collection",
+  "plugins": [
+    {
+      "name": "furkan-skills",
+      "source": "./",
+      "description": "Personal skill collection: orchestration, apple-design"
+    }
+  ]
+}
